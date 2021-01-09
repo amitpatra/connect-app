@@ -1,9 +1,1 @@
-<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg">
-  <desc>X Mark</desc>
-  <defs></defs>
-  <g id="x-mark-icon" strokeWidth="1" fillRule="evenodd">
-    <g id="x-mark-icon" transform="translate(-382.000000, -806.000000)">
-      <polygon id="x-mark" points="393.140845 806 389 810.239437 384.859155 806 382 808.859155 386.239437 813 382 817.140845 384.859155 820 389 815.760563 393.140845 820 396 817.140845 391.760563 813 396 808.859155"></polygon>
-    </g>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" version="1.1" viewBox="0 0 14 14"><desc>X Mark</desc><g id="x-mark-icon" fillRule="evenodd" strokeWidth="1"><g id="x-mark-icon" transform="translate(-382.000000, -806.000000)"><polygon id="x-mark" points="393.141 806 389 810.239 384.859 806 382 808.859 386.239 813 382 817.141 384.859 820 389 815.761 393.141 820 396 817.141 391.761 813 396 808.859"/></g></g></svg>
